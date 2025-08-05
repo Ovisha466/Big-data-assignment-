@@ -1,6 +1,7 @@
 # 🏆 Student Lab: Transactions Data Processing
 
 **Project Overview**
+
 In this project, you will work with a dataset of transactions from a business or e-commerce platform. Your task is to process the data, clean it, and then analyze it using SQL queries to derive meaningful insights about the transactions. You will be using **Python with the pandas library** for data manipulation and **SQLite** for storing and querying the data.
 
 The project will involve the following key steps:
@@ -91,3 +92,4 @@ Write and execute the following SQL queries to derive insights:
 
 
 Good luck! 🚀
+
